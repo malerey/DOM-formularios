@@ -183,7 +183,7 @@ console.log(sexo.value); // f
 ```
 
 * Los elementos del formulario pueden manejar eventos por medio de los métodos: onfocus, onblur, onchange, oninput
-* También se pueden escribir utilizando el método addEventListener(callback)
+
   * **focus:** se dispara al establecer el foco en un elemento
   * **blur:** se dispara al remover el foco sobre un elemento
   * **change:** se dispara cuando cambia el valor de un elementos
